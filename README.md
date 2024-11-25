@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Sholahuddin**.\
 
-Saya seorang **Mahasiswa Semester 5** di [Universitas Islam Sultan Agung](https://unissula.ac.id//).\
+Saya seorang **Fresh graduate yang sedang mencari pekerjaan**, saya lulus dari [Universitas Islam Sultan Agung] dengan IPK 3.72 (https://unissula.ac.id//).\
 
-Saya Sedang Mengikuti Program Kampus Merdeka yaitu Study independen Dengan Lembaga [Dicoding](https://www.dicoding.com/).\
+saya memiliki portofolio dengan nama repositori NewItem & ChangeItem
 
